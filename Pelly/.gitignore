@@ -31,5 +31,6 @@ out/
 ### VS Code ###
 .vscode/
 
-/application.properties
+*.properties
+*.jar
 *.class
