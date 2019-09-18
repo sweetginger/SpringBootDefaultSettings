@@ -1,5 +1,5 @@
 # SpringBoot 기본 세팅
-Pelly Rest API ( Java version )
+Rest API 메소드 한개 만들어져있음
 
 ### [ project 세팅 방법 ]
 
